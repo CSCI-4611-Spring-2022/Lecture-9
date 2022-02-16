@@ -1,8 +1,8 @@
-# Lecture 8: Programming with 3D Transformations
+# Lecture 9: 3D Polygonal Modeling
 
-Detailed explanation of this code can be found in the lecture video.
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_xyf7jypd).
 
-You can run the program on [GitHub pages](https://csci-4611-spring-2022.github.io/Lecture-8).
+You can run the program on [GitHub pages](https://csci-4611-spring-2022.github.io/Lecture-9).
 
 ## Prerequisites
 
